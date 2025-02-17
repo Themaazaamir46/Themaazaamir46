@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 ## 🚀 Tech Stack
 
 ### 💻 Programming Languages  
-<p align="center">
+<p>
     <a href="#">
         <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" height="30">
     </a>
@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 </p>
 
 ### 📚 Libraries & Frameworks  
-<p align="center">
+<p>
     <a href="#">
         <img src="https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white" height="30">
     </a>
@@ -73,7 +73,7 @@ Here are some ideas to get you started:
 </p>
 
 ### 🛠️ Tools & Databases  
-<p align="center">
+<p>
     <a href="#">
         <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" height="30">
     </a>
