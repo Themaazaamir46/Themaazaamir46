@@ -13,12 +13,12 @@ Here are some ideas to get you started:
 -->
 
 ### 🌐 Socials:
-- [LinkedIn](https://www.linkedin.com/in/maazaamir46/)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maazaamir46/)
 
 ### 💻 Coding Profiles:
-- [LeetCode](https://leetcode.com/u/themaazaamir46/)
-- [CodeChef](https://www.codechef.com/users/maazamir666)
-- [HackerRank](https://www.hackerrank.com/profile/maazamir666)
+- [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116?style=flat&logo=leetCode&logoColor=white)](https://leetcode.com/u/themaazaamir46/)
+- [![CodeChef](https://img.shields.io/badge/CodeChef-%23D74A16?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/maazamir666)
+- [![HackerRank](https://img.shields.io/badge/HackerRank-%2300A4A6?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/maazamir666)
 
 ### 🚀 Tech Stack:
 - **Languages**:
