@@ -14,14 +14,18 @@ Here are some ideas to get you started:
 
 
 ### 🌐 Socials:
-<p align="center">
+<p>
     <a href="https://www.linkedin.com/in/maazaamir46/">
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" height="40">
     </a>
+    <a href="https://www.instagram.com/themaazaamir46/">
+        <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white" height="40">
+    </a>
 </p>
 
+
 ### 💻 Coding Profiles:
-<p align="center">
+<p>
     <a href="https://leetcode.com/u/themaazaamir46/">
         <img src="https://img.shields.io/badge/LeetCode-%23FFA116?style=for-the-badge&logo=LeetCode&logoColor=white" height="40">
     </a>
